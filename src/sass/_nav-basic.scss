@@ -1,0 +1,79 @@
+//Sass color variables
+//Change link color here
+$link-color: #dadada;
+$hover-color: darken($link-color, 20%);
+$visited-color: lighten($link-color, 20%);
+$nav-background: #fff;
+
+.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 1rem; /* adds space between logo and nav items if the items wrap under the logo */
+    justify-content: space-between;
+   padding: 10px;
+    /*max-height: 90px;*.
+    background-color: $nav-background;
+    /*transition: top 500ms ease-in-out;*/
+    background-color: #000000;
+    align-items: center;
+    align-content: center;
+    
+
+    
+
+    
+      .links {
+        display: flex;
+        margin: 0 -1em;
+    
+        a {
+            display: inline-block;
+            margin: 0 1em;
+            color: $link-color;
+            text-decoration: none;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+
+            &:hover{
+                color: $hover-color;
+                border-bottom: 1px solid $hover-color;
+            }
+              
+           
+            }
+        }
+    
+
+  }
+  
+  
+/*.navbar {*/
+nav{
+  
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+
+ 
+  @media screen and (max-width: 600px){
+    .site-nav{
+      justify-content:center;
+    }
+    .logo{
+      text-align: center;
+      flex-basis: 100%;
+    }
+
+    
+  }
+  
+.logo img{
+    width: 200px;
+    /*height: 70px;*/
+    /*border-radius: 50%;*/
+    overflow: hidden;
+    
+    
+}
