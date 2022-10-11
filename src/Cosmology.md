@@ -11,21 +11,23 @@ Any collection of matter in space is considered a cellestial body. Here are the 
 </section>
 <section class="grid3">
 <div class="object">
-<img src="/images/universe.jpeg">
-</div><div>
-<h3>Universe</h3>
-<p>The universe is all of space and time and their contents, including planets, stars, galaxies, and all other forms of matter and energy. The Big Bang theory is the prevailing cosmological description of the development of the universe.</p>
+<img src="/images/meteor.png">
+</div>
+<div><h3>Meteor</h3>
+<br><p>A meteoroid is a small rocky or metallic body in outer space. Meteoroids are significantly smaller than asteroids, and range in size from small grains to one-meter-wide objects. Objects smaller than this are classified as micrometeoroids or space dust.</p>
+</div>
 </div>
 </section>
+
 <section class="grid3">
 <div class="object">
-<img src="/images/sun.jpeg">
-</div><div>
-<h3>Star</h3>
-<br><p>A star is an astronomical object comprising a luminous spheroid of plasma held together by its gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night, but their immense distances from Earth make them appear as fixed points of light.</p>
+<img src="/images/moon.jpeg">
 </div>
+<div><h3>Moon</h3>
+<br><p>The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth, it is the fifth largest satellite in the Solar System, the largest satellite in the Solar System relative to its major planet, and larger than any known dwarf planet.</div>
 </div>
 </section>
+
 <section class="grid3">
 <div class="object">
 <img src="/images/jupiter.jpeg">
@@ -36,14 +38,17 @@ Any collection of matter in space is considered a cellestial body. Here are the 
 </p></div>
 </div>
 </section>
+
 <section class="grid3">
 <div class="object">
-<img src="/images/moon.jpeg">
+<img src="/images/sun.jpeg">
+</div><div>
+<h3>Star</h3>
+<br><p>A star is an astronomical object comprising a luminous spheroid of plasma held together by its gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night, but their immense distances from Earth make them appear as fixed points of light.</p>
 </div>
-<div><h3>Moon</h3>
-<br><p>The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth, it is the fifth largest satellite in the Solar System, the largest satellite in the Solar System relative to its major planet, and larger than any known dwarf planet.</div>
 </div>
 </section>
+
 <section class="grid3">
 <div class="object">
 <img src="/images/galaxy.jpeg">
@@ -66,11 +71,10 @@ A galaxy is a gravitationally bound system of stars, stellar remnants, interstel
 </section>
 <section class="grid3">
 <div class="object">
-<img src="/images/meteor.png">
-</div>
-<div><h3>Meteor</h3>
-<br><p>A meteoroid is a small rocky or metallic body in outer space. Meteoroids are significantly smaller than asteroids, and range in size from small grains to one-meter-wide objects. Objects smaller than this are classified as micrometeoroids or space dust.</p>
-</div>
+<img src="/images/universe.jpeg">
+</div><div>
+<h3>Universe</h3>
+<p>The universe is all of space and time and their contents, including planets, stars, galaxies, and all other forms of matter and energy. The Big Bang theory is the prevailing cosmological description of the development of the universe.</p>
 </div>
 </section>
 </main>
