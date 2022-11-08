@@ -51,7 +51,7 @@ body{
 }
 .grid1{
     display: grid;
-    grid-template-columns: 65% 35%;
+    grid-template-columns: auto;
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
